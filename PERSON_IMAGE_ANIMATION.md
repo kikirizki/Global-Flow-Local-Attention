@@ -33,7 +33,7 @@ Two datasets are used in this task: [The FashionVideo dataset](https://vision.cs
   --anno_path=[path to the previously downloaded skeletons]
   ```
 
-Note: you can also extract the skeleton on your own. Please use the [Alphapose](https://github.com/MVIG-SJTU/AlphaPose) algorithm and output the results with openpose format. To set output with OpenPose format please set flag **--format open** for more information plase visit the officeial repo https://github.com/MVIG-SJTU/AlphaPose/blob/0ad7db09e247bfe62ec04b009e58291ce6f26a66/docs/run.md
+Note: you can also extract the skeleton on your own. Please use the [Alphapose](https://github.com/MVIG-SJTU/AlphaPose) algorithm and output the results with openpose format. To set output with OpenPose format please set flag **--format open** for more information plase visit the official repo https://github.com/MVIG-SJTU/AlphaPose/blob/0ad7db09e247bfe62ec04b009e58291ce6f26a66/docs/run.md
 
 ### Testing
 
